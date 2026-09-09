@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Afzal N
 
-### 💻 Flutter Developer | Full-Stack Developer | AI/ML Enthusiast
+### 🐍 Python Developer | Full-Stack Developer | AI/ML Enthusiast | Flutter Developer
 
 <p>
   <a href="https://github.com/Afzaln22">
@@ -22,81 +22,133 @@
 
 ## 🚀 About Me
 
-I'm an **MCA candidate and BCA graduate** with hands-on experience building **mobile, full-stack, and AI/ML applications**.
+I'm an **MCA candidate and BCA graduate** passionate about building practical and scalable software solutions.
 
-I enjoy turning real-world problems into practical software solutions, from designing responsive Flutter applications and REST APIs to developing AI-powered computer vision systems.
+My primary focus is **Python development and backend engineering**, with experience in **REST APIs, FastAPI, databases, full-stack development, AI/ML, and computer vision**.
 
-* 🔭 Currently focused on **Flutter, Full-Stack Development & AI/ML**
-* 📱 Experienced in building **Flutter-based ERP modules**
-* 🤖 Interested in **Computer Vision, Deepfake Detection & Explainable AI**
-* 🌐 Comfortable working across **frontend, backend, databases and AI**
-* 🧠 Strong interest in **problem solving and independent development**
-* 📍 Mysore, Karnataka, India
+I also have hands-on experience with **Flutter mobile application development**, including developing ERP modules during my internship.
+
+```text
+🐍 Python
+   ↓
+⚙️ Backend & APIs
+   ↓
+🌐 Full-Stack Development
+   ↓
+🤖 AI / Machine Learning
+   ↓
+📱 Flutter Mobile Development
+```
+
+### What I Do
+
+* 🐍 Build backend applications using **Python & FastAPI**
+* ⚙️ Develop and integrate **REST APIs**
+* 🌐 Build full-stack web applications
+* 🤖 Develop **AI/ML and computer vision applications**
+* 📱 Build mobile applications using **Flutter & Dart**
+* 🗄️ Work with **PostgreSQL & SQLite**
+* 🔐 Implement authentication, role-based systems and secure workflows
+* 🧠 Solve real-world problems through software
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 🐍 Python & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,dart" />
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
 </p>
 
-### 📱 Mobile Development
+**Python • FastAPI • REST APIs • OOP • Backend Development • API Integration • Concurrency • File Handling**
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,python" />
+</p>
+
+**PyTorch • CNN • Vision Transformer (ViT) • YOLO • Computer Vision • Grad-CAM • Explainable AI**
+
+---
+
+## 🌐 Full-Stack Development
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js" />
+</p>
+
+**React • JavaScript • Vite • Tailwind CSS**
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
+</p>
+
+**Python • FastAPI • Node.js • Express.js**
+
+---
+
+## 📱 Mobile Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### 🌐 Frontend
+**Flutter • Dart • REST API Integration • Responsive UI • ERP Applications**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
+---
 
-### ⚙️ Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-**REST API Development • Multer • File Upload Handling • Concurrency Control**
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
-**CNN • Vision Transformer (ViT) • YOLO • Grad-CAM • Explainable AI**
-
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 </p>
 
-### 🔧 Tools
+**PostgreSQL • SQLite**
+
+---
+
+## 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
+**Git • GitHub • VS Code • Postman**
+
 ---
 
 # 💼 Experience
 
-### Flutter Developer Intern — Promenant
+## Flutter Developer Intern — Promenant
 
 **June 2026 – September 2026**
 
-During my internship, I independently developed two major modules for a Flutter-based ERP application:
+Worked on a **Flutter-based ERP application**, independently developing and delivering two major modules.
 
-* 🧾 **POS Module** — Developed the module end-to-end, from UI implementation to integration with the application's data layer.
-* 📊 **Reports Module** — Built screens and logic supporting business reporting workflows.
-* 🎨 Implemented and refined functional UI components based on product requirements.
-* 🚀 Independently owned delivery of both modules across the 3-month internship.
+### 🧾 POS Module
+
+* Developed the POS module end-to-end
+* Implemented functional UI components
+* Integrated the module with the application's data layer
+* Worked with application workflows and business requirements
+
+### 📊 Reports Module
+
+* Developed reporting screens and application logic
+* Implemented functional UI components
+* Integrated data-driven reporting workflows
+
+### 🚀 Key Takeaway
+
+Independently owned the development and delivery of both modules during the internship.
 
 ---
 
@@ -106,43 +158,46 @@ During my internship, I independently developed two major modules for a Flutter-
 
 ### Full-Stack Scheme / Slot Booking & Administration Platform
 
-A full-stack booking and administration platform designed with concurrency handling and role-based management.
+A full-stack booking and administration platform designed to handle **concurrent bookings, role-based administration, payment verification and digital ticket management**.
 
-### 🔧 Tech Used
+### 🔧 Tech Stack
 
 **React 19 • Vite • Tailwind CSS • Node.js • Express.js • SQLite3**
 
-### ✨ Key Features
+### ✨ Features
 
 * 🔐 Sequential slot allocation using a **backend mutex queue lock**
 * ⚡ Atomic concurrency handling to prevent **race conditions**
-* 👥 Role-based administration:
+* 👥 Role-based administration
 
   * Super Admin
   * Admin
   * Staff
 * 📊 Real-time booking and revenue statistics
-* 💳 Payment proof review and application approval workflows
-* 🎟️ QR-code ticket generation and verification
+* 💳 Payment proof review
+* ✅ Application approval workflows
+* 🎟️ QR-code ticket generation
+* 🔍 QR-code ticket verification
 * 📄 Digital ticket issuance
-* 📥 CSV export of registration data
+* 📥 CSV export
 * 📤 Payment screenshot uploads using **Multer**
-* 💰 UPI-based payment submission and transaction reference workflow
+* 💰 UPI payment submission and transaction reference workflow
 
 ---
 
-## 🛡️ DeepShield
+# 🛡️ DeepShield
 
-### Real-Time AI & Deepfake Detection Platform
+### Python-Based AI & Deepfake Detection Platform
 
-An AI-powered forensic analysis platform designed to classify real and manipulated media.
+An AI-powered forensic analysis platform built using **Python and PyTorch** for detecting and analyzing manipulated and AI-generated media.
 
-### 🔧 Tech Used
+### 🔧 Tech Stack
 
-**Python • PyTorch • CNN • Vision Transformer • YOLO • FastAPI**
+**Python • PyTorch • FastAPI • CNN • Vision Transformer • YOLO**
 
-### ✨ Key Features
+### ✨ Features
 
+* 🐍 Python-based AI/ML processing pipeline
 * 🧠 Hybrid **CNN + Vision Transformer (ViT)** architecture
 * 🔍 3-way forensic classification:
 
@@ -150,7 +205,7 @@ An AI-powered forensic analysis platform designed to classify real and manipulat
   * Fake Manipulated
   * Fake AI Generated
 * 🖼️ Image analysis
-* 🎥 Video analysis supporting MP4, MOV and WebM
+* 🎥 Video analysis
 * 📹 Real-time webcam analysis
 * ⚡ CUDA GPU acceleration
 * 👤 YOLO-based real-time face tracking
@@ -158,40 +213,47 @@ An AI-powered forensic analysis platform designed to classify real and manipulat
 * 📡 2D FFT frequency-domain analysis
 * 🧪 Laplacian texture analysis
 * 📑 Downloadable forensic PDF reports
+* ⚙️ FastAPI backend for AI inference and API services
 
 ---
 
-# 🧠 What I Work With
+# 🧠 My Development Journey
 
 ```text
-Mobile Development
-        ↓
-Flutter + Dart
-        ↓
-Frontend
-        ↓
-React + Vite + Tailwind CSS
-        ↓
-Backend
-        ↓
-Node.js + Express.js + FastAPI
-        ↓
-Databases
-        ↓
-PostgreSQL + SQLite
-        ↓
-AI / ML
-        ↓
-PyTorch + CNN + ViT + YOLO
-        ↓
-Computer Vision / Forensics
-        ↓
-Deepfake Detection + FFT + Grad-CAM
+                 SOFTWARE DEVELOPMENT
+                         │
+          ┌──────────────┴──────────────┐
+          │                             │
+       🐍 PYTHON                    📱 FLUTTER
+          │                             │
+   Backend Development             Mobile Apps
+          │                             │
+   FastAPI / REST APIs              Dart / UI
+          │                             │
+          └──────────────┬──────────────┘
+                         │
+                  🌐 FULL-STACK
+                         │
+               React + JavaScript
+                         │
+                Node.js + Express
+                         │
+                PostgreSQL + SQLite
+                         │
+                    🤖 AI / ML
+                         │
+                PyTorch + CNN + ViT
+                         │
+                 Computer Vision
+                         │
+              Deepfake Detection
+                         │
+             Explainable AI / Forensics
 ```
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -233,16 +295,34 @@ Deepfake Detection + FFT + Grad-CAM
 
 ---
 
+# 🎯 Current Focus
+
+I'm currently focusing on strengthening my skills in:
+
+* 🐍 **Advanced Python Development**
+* ⚙️ **Backend Development & REST APIs**
+* 🌐 **Full-Stack Development**
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 👁️ **Computer Vision**
+* 🛡️ **Digital / Image Forensics**
+* 📱 **Flutter Application Development**
+* 🗄️ **Database & System Design**
+
+---
+
 # 💡 Areas of Interest
 
-* 📱 Mobile Application Development
+* 🐍 Python Development
+* ⚙️ Backend Engineering
 * 🌐 Full-Stack Development
 * 🤖 Artificial Intelligence & Machine Learning
 * 👁️ Computer Vision
 * 🛡️ Digital / Image Forensics
 * 🔍 Explainable AI
+* 📱 Mobile Application Development
+* 🗄️ Database Systems
 * ☁️ Scalable Software Systems
-* 🚀 Building practical solutions to real-world problems
+* 🚀 Real-World Problem Solving
 
 ---
 
@@ -268,7 +348,7 @@ Deepfake Detection + FFT + Grad-CAM
 
 <div align="center">
 
-### 💻 Build. Learn. Solve. Repeat. 🚀
+### 🐍 Build with Python. ⚙️ Engineer with Code. 🤖 Innovate with AI. 📱 Create with Flutter.
 
 <img src="https://komarev.com/ghpvc/?username=Afzaln22&label=Profile%20Views&color=blue&style=flat" />
 
