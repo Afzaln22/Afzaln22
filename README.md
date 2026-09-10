@@ -215,44 +215,6 @@ An AI-powered forensic analysis platform built using **Python and PyTorch** for 
 * 📑 Downloadable forensic PDF reports
 * ⚙️ FastAPI backend for AI inference and API services
 
----
-
-# 🧠 My Development Journey
-
-```text
-                 SOFTWARE DEVELOPMENT
-                         │
-          ┌──────────────┴──────────────┐
-          │                             │
-       🐍 PYTHON                    📱 FLUTTER
-          │                             │
-   Backend Development             Mobile Apps
-          │                             │
-   FastAPI / REST APIs              Dart / UI
-          │                             │
-          └──────────────┬──────────────┘
-                         │
-                  🌐 FULL-STACK
-                         │
-               React + JavaScript
-                         │
-                Node.js + Express
-                         │
-                PostgreSQL + SQLite
-                         │
-                    🤖 AI / ML
-                         │
-                PyTorch + CNN + ViT
-                         │
-                 Computer Vision
-                         │
-              Deepfake Detection
-                         │
-             Explainable AI / Forensics
-```
-
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
