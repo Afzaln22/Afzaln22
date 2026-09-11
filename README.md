@@ -100,106 +100,39 @@ I also have hands-on experience with **Flutter mobile application development**,
 
 ---
 
-# 💼 Experience
-
-## Flutter Developer Intern — Promenant
-
-**June 2026 – September 2026**
-
-Worked on a **Flutter-based ERP application**, independently developing and delivering two major modules.
-
-### 🧾 POS Module
-
-* Developed the POS module end-to-end
-* Implemented functional UI components
-* Integrated the module with the application's data layer
-* Worked with application workflows and business requirements
-
-### 📊 Reports Module
-
-* Developed reporting screens and application logic
-* Implemented functional UI components
-* Integrated data-driven reporting workflows
-
-### 🚀 Key Takeaway
-
-Independently owned the development and delivery of both modules during the internship.
-
----
-
-# 🚀 Featured Projects
-
-## ⚡ SequeVolt
-
-### Full-Stack Scheme / Slot Booking & Administration Platform
-
-A full-stack booking and administration platform designed to handle **concurrent bookings, role-based administration, payment verification and digital ticket management**.
-
-### 🔧 Tech Stack
-
-**React 19 • Vite • Tailwind CSS • Node.js • Express.js • SQLite3**
-
-### ✨ Features
-
-* 🔐 Sequential slot allocation using a **backend mutex queue lock**
-* ⚡ Atomic concurrency handling to prevent **race conditions**
-* 👥 Role-based administration
-
-  * Super Admin
-  * Admin
-  * Staff
-* 📊 Real-time booking and revenue statistics
-* 💳 Payment proof review
-* ✅ Application approval workflows
-* 🎟️ QR-code ticket generation
-* 🔍 QR-code ticket verification
-* 📄 Digital ticket issuance
-* 📥 CSV export
-* 📤 Payment screenshot uploads using **Multer**
-* 💰 UPI payment submission and transaction reference workflow
-
----
-
-# 🛡️ DeepShield
-
-### Python-Based AI & Deepfake Detection Platform
-
-An AI-powered forensic analysis platform built using **Python and PyTorch** for detecting and analyzing manipulated and AI-generated media.
-
-### 🔧 Tech Stack
-
-**Python • PyTorch • FastAPI • CNN • Vision Transformer • YOLO**
-
-### ✨ Features
-
-* 🐍 Python-based AI/ML processing pipeline
-* 🧠 Hybrid **CNN + Vision Transformer (ViT)** architecture
-* 🔍 3-way forensic classification:
-
-  * Real
-  * Fake Manipulated
-  * Fake AI Generated
-* 🖼️ Image analysis
-* 🎥 Video analysis
-* 📹 Real-time webcam analysis
-* ⚡ CUDA GPU acceleration
-* 👤 YOLO-based real-time face tracking
-* 🔬 **Grad-CAM** explainable AI heatmaps
-* 📡 2D FFT frequency-domain analysis
-* 🧪 Laplacian texture analysis
-* 📑 Downloadable forensic PDF reports
-* ⚙️ FastAPI backend for AI inference and API services
-
-# 📊 GitHub Statistics
+📊 GitHub Statistics & Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Afzaln22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Afzaln22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzaln22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzaln22&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
+🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Afzaln22&theme=tokyonight&hide_border=true" />
+
+</div>
+
+📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afzaln22&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Afzaln22/Afzaln22/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
 ---
 
 # 🔥 GitHub Streak
@@ -212,56 +145,7 @@ An AI-powered forensic analysis platform built using **Python and PyTorch** for 
 
 ---
 
-# 🎓 Education
 
-### 🎓 Master of Computer Applications (MCA)
-
-**St. Philomena's College**
-2025 – 2026
-
-### 🎓 Bachelor of Computer Applications (BCA)
-
-**Mangalore University**
-2021 – 2024
-
----
-
-# 📜 Certification
-
-🏅 **Data Analytics Certification**
-
----
-
-# 🎯 Current Focus
-
-I'm currently focusing on strengthening my skills in:
-
-* 🐍 **Advanced Python Development**
-* ⚙️ **Backend Development & REST APIs**
-* 🌐 **Full-Stack Development**
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 👁️ **Computer Vision**
-* 🛡️ **Digital / Image Forensics**
-* 📱 **Flutter Application Development**
-* 🗄️ **Database & System Design**
-
----
-
-# 💡 Areas of Interest
-
-* 🐍 Python Development
-* ⚙️ Backend Engineering
-* 🌐 Full-Stack Development
-* 🤖 Artificial Intelligence & Machine Learning
-* 👁️ Computer Vision
-* 🛡️ Digital / Image Forensics
-* 🔍 Explainable AI
-* 📱 Mobile Application Development
-* 🗄️ Database Systems
-* ☁️ Scalable Software Systems
-* 🚀 Real-World Problem Solving
-
----
 
 # 📫 Let's Connect
 
