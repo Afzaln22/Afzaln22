@@ -28,31 +28,6 @@ My primary focus is **Python development and backend engineering**, with experie
 
 I also have hands-on experience with **Flutter mobile application development**, including developing ERP modules during my internship.
 
-```text
-🐍 Python
-   ↓
-⚙️ Backend & APIs
-   ↓
-🌐 Full-Stack Development
-   ↓
-🤖 AI / Machine Learning
-   ↓
-📱 Flutter Mobile Development
-```
-
-### What I Do
-
-* 🐍 Build backend applications using **Python & FastAPI**
-* ⚙️ Develop and integrate **REST APIs**
-* 🌐 Build full-stack web applications
-* 🤖 Develop **AI/ML and computer vision applications**
-* 📱 Build mobile applications using **Flutter & Dart**
-* 🗄️ Work with **PostgreSQL & SQLite**
-* 🔐 Implement authentication, role-based systems and secure workflows
-* 🧠 Solve real-world problems through software
-
----
-
 # 🛠️ Tech Stack
 
 ## 🐍 Python & Backend
