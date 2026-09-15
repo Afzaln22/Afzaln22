@@ -163,4 +163,3 @@ I also have hands-on experience with **Flutter mobile application development**,
 <img src="https://komarev.com/ghpvc/?username=Afzaln22&label=Profile%20Views&color=blue&style=flat" />
 
 </div>
-
