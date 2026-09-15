@@ -100,7 +100,7 @@ I also have hands-on experience with **Flutter mobile application development**,
 
 ---
 
-📊 GitHub Statistics & Metrics
+## 📊 GitHub Statistics & Metrics
 
 <div align="center">
 
@@ -110,15 +110,15 @@ I also have hands-on experience with **Flutter mobile application development**,
 
 </div>
 
-🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Afzaln22&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Afzaln22&theme=tokyonight&hide_border=true&cache_seconds=1" />
 
 </div>
 
-📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -126,26 +126,15 @@ I also have hands-on experience with **Flutter mobile application development**,
 
 </div>
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Afzaln22/Afzaln22/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Afzaln22&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
-
-
 
 # 📫 Let's Connect
 
@@ -174,3 +163,4 @@ I also have hands-on experience with **Flutter mobile application development**,
 <img src="https://komarev.com/ghpvc/?username=Afzaln22&label=Profile%20Views&color=blue&style=flat" />
 
 </div>
+
