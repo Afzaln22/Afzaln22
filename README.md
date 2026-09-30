@@ -56,27 +56,6 @@ I am an **MCA candidate and BCA graduate** passionate about architecting practic
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Afzaln22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzaln22&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-### 🔥 GitHub Streak
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Afzaln22&theme=tokyonight&hide_border=true&cache_seconds=1" />
-
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
